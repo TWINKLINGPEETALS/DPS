@@ -12,12 +12,12 @@ const contactInfo = [
   {
     icon: Phone,
     title: 'Phone',
-    content: '+91 1234 567 890\n+91 9876 543 210',
+    content: '+91 9742 992 750\n+91 9742 957 006',
   },
   {
     icon: Mail,
     title: 'Email',
-    content: 'info@littlejuniordps.edu\nadmissions@littlejuniordps.edu',
+    content: 'usha@littlejuniordps.edu\nadmissions@littlejuniordps.edu',
   },
   {
     icon: Clock,
@@ -177,7 +177,7 @@ export default function Contact() {
                     required
                     maxLength={100}
                     className={inputClasses}
-                    placeholder="John Doe"
+                    placeholder="Your Name"
                   />
                 </div>
                 <div>
