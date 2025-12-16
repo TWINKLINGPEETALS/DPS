@@ -104,19 +104,19 @@ export default function Footer() {
               <li className="flex items-center gap-3">
                 <Phone className="w-5 h-5 text-primary flex-shrink-0" />
                 <a
-                  href="tel:+911234567890"
+                  href="tel:+919742994750"
                   className="text-primary-foreground/80 hover:text-primary transition-colors"
                 >
-                  +91 1234 567 890
+                  +91 9742 994 750
                 </a>
               </li>
               <li className="flex items-center gap-3">
                 <Mail className="w-5 h-5 text-primary flex-shrink-0" />
                 <a
-                  href="mailto:info@littlejuniordps.edu"
+                  href="mailto:usha@littlejuniordps.edu"
                   className="text-primary-foreground/80 hover:text-primary transition-colors"
                 >
-                  info@littlejuniordps.edu
+                  usha@littlejuniordps.edu
                 </a>
               </li>
             </ul>
