@@ -134,7 +134,7 @@ export default function Contact() {
               className="rounded-2xl overflow-hidden shadow-soft h-56"
             >
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3502.1234567890123!2d77.31234567890123!3d28.57890123456789!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjjCsDM0JzQzLjIiTiA3N8KwMTgnNDQuNCJF!5e0!3m2!1sen!2sin!4v1234567890123!5m2!1sen!2sin"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3502.9742992750123!2d77.39742992750123!3d28.57890123456789!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjjCsDM0JzQzLjIiTiA3N8KwMTgnNDQuNCJF!5e0!3m2!1sen!2sin!4v9742992750123!5m2!1sen!2sin"
                 width="100%"
                 height="100%"
                 style={{ border: 0 }}
@@ -209,7 +209,7 @@ export default function Contact() {
                     onChange={handleChange}
                     maxLength={15}
                     className={inputClasses}
-                    placeholder="+91 1234567890"
+                    placeholder="+91 9742992750"
                   />
                 </div>
                 <div>
