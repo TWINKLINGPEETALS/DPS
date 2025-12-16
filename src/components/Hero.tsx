@@ -115,7 +115,7 @@ export default function Hero() {
                 <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
               </button>
               <a
-                href="tel:+911234567890"
+                href="tel:+919742994750"
                 className="btn-outline flex items-center justify-center gap-2"
               >
                 <Phone className="w-5 h-5" />
