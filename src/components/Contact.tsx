@@ -22,7 +22,7 @@ const contactInfo = [
   {
     icon: Clock,
     title: 'Timings',
-    content: 'Mon – Fri: 8:00 AM – 5:00 PM\nSat: 9:00 AM – 1:00 PM',
+    content: 'Mon – Fri: 8:00 AM – 7:00 PM\nSat: 9:00 AM – 1:00 PM',
   },
 ];
 
